@@ -1,3 +1,4 @@
-![image](https://github.com/user-attachments/assets/2dd14263-f30a-45f3-bd61-9e0019b7db44)
+![image](https://github.com/user-attachments/assets/2772ffc3-3ba2-4947-87a1-76de3ebc64df)
+
 
 ## workflow cms- installation- shell script are updated + uploaded here 
